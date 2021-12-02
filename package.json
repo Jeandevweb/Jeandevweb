@@ -1,0 +1,22 @@
+{
+  "name": "jeandevweb",
+  "version": "1.0.0",
+  "description": "<!--\r **Jeandevweb/Jeandevweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeandevweb/Jeandevweb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jeandevweb/Jeandevweb/issues"
+  },
+  "homepage": "https://github.com/Jeandevweb/Jeandevweb#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
