@@ -5,7 +5,7 @@
 
 
 <p>I'm Jean, Front-End developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Paris</b>, currently living in <b>Juvignac, France</b>. </p>
-<h3>Tech i use</h3>
+<h3>Tech I use</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-1a73e8?style=flat-square&logo=CSS3&logoColor=white" />
