@@ -1,6 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1605478401/10874/cool_cowboy.png?1605478401" width="30"/> Hey! Nice to see you.</h1>
 
 
+![Bienvenu sur mon GitHub](https://user-images.githubusercontent.com/86407531/144469733-9f78aa58-143f-4c68-baa1-2e256cb248c8.png)
 
 
 <p>Welcome to my page! </br> I'm Jean, Front-End developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Paris</b>, currently living in <b>Juvignac, France</b>. </p>
