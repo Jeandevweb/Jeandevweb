@@ -14,13 +14,14 @@
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
- 
- 
 </p>
+<hr/>
 
+<h2>Work</h2>
+<p><a href="https://mystifying-gates-7f2b1a.netlify.app/" target="_blank">Population mondiale<a/></p>
 
 <h3>Where to find me</h3>
-<p><a href="https://github.com/Jeandevweb" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+<p><a href="https://github.com/Jeandevweb" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/jean-martial" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
 
