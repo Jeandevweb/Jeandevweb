@@ -19,7 +19,7 @@
 
 <h2>My Work 👇</h2>
 <p><a href="https://mystifying-gates-7f2b1a.netlify.app/" target="_blank"><img alt="Population Mondiale" src="https://img.shields.io/badge/-Population%20Mondiale-blue?style=for-the-badge&logo=appveyor"<a/></p>
-<p><a href="https://wizardly-nightingale-4dbdb7.netlify.app/" target="_blank"><img alt="Pokedex" src="https://img.shields.io/badge/-Population%20Mondiale-blue?style=for-the-badge&logo=appveyor"<a/></p>
+<p><a href="https://wizardly-nightingale-4dbdb7.netlify.app/" target="_blank"><img alt="Pokedex" src="https://img.shields.io/badge/-Pokedex%20-blue?style=for-the-badge&logo=appveyor"<a/></p>
 
 <h3>Where to find me</h3>
 <p><a href="https://github.com/Jeandevweb" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"></a>
