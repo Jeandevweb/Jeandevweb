@@ -18,7 +18,7 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 <p><img alt="VsCode" src="https://img.shields.io/badge/-VS Code-007ACC?style=flat-square&logo=html5&logoColor=white" />
-  
+   <img alt="VsCode" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>  
 <hr/>
 
