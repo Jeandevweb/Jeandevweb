@@ -20,7 +20,7 @@
 <hr/>
 
 <h2>👇 Some Work (click) 👇</h2>
-<p><a href="https://mystifying-gates-7f2b1a.netlify.app/"><img alt="Population Mondiale" src="https://img.shields.io/badge/-Fetch%20Countries-black?style=flat&logo=appveyor"><a/>  
+<p><a href="https://mystifying-gates-7f2b1a.netlify.app/"><img alt="Population Mondiale" src="https://img.shields.io/badge/-Fetch%20Countries-black?style=flat&logo=<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Accenture</title><path d="M23.297 14.74L.434 24v-5.263L16.8 12.11l6.497 2.631zm.27-5.371L.433 0v5.263l23.132 9.368V9.37z"/></svg>"><a/>  
 <a href="https://clever-aryabhata-7d0a12.netlify.app/" target="_blank"><img alt="Actos Site Internet" src="https://img.shields.io/badge/-Actos%20-black?style=flat&logo=appveyor"><a/>
 <a href="https://dreamy-shannon-409850.netlify.app/" target="_blank"><img alt="Quizz" src="https://img.shields.io/badge/-Quizz%20-black?style=flat&logo=appveyor"><a/> 
 </p>
