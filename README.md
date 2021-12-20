@@ -17,8 +17,11 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
-<p><img alt="VsCode" src="https://img.shields.io/badge/-VS Code-007ACC?style=flat-square&logo=html5&logoColor=white" />
-   <img alt="VsCode" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+<p><img alt="VsCode" src="https://img.shields.io/badge/-VS Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+   <img alt="prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+   <img alt="Babel" src="https://img.shields.io/badge/-Babel-F9DC3E?style=flat-square&logo=babel&logoColor=white" />
+   <img alt="EsLint" src="https://img.shields.io/badge/-EsLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
+   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
 </p>  
 <hr/>
 
