@@ -20,13 +20,13 @@
 <hr/>
 
 <h2>👇 Some Work (click) 👇</h2>
-<p><a href="https://mystifying-gates-7f2b1a.netlify.app/"><img alt="Population Mondiale" src="https://img.shields.io/badge/-Fetch%20Countries-black?style=flat&logo=appannie"><a/>  
-<a href="https://clever-aryabhata-7d0a12.netlify.app/" target="_blank"><img alt="Actos Site Internet" src="https://img.shields.io/badge/-Actos%20-black?style=flat&logo=appannie"><a/>
-<a href="https://dreamy-shannon-409850.netlify.app/" target="_blank"><img alt="Quizz" src="https://img.shields.io/badge/-Quizz%20-black?style=flat&logo=appannie"><a/> 
+<p><a href="https://mystifying-gates-7f2b1a.netlify.app/"><img alt="Population Mondiale" src="https://img.shields.io/badge/-FETCH%20COUNTRIES-black?style=flat&logo=appannie"><a/>  
+<a href="https://clever-aryabhata-7d0a12.netlify.app/" target="_blank"><img alt="Actos Site Internet" src="https://img.shields.io/badge/-ACTOS%20-black?style=flat&logo=appannie"><a/>
+<a href="https://dreamy-shannon-409850.netlify.app/" target="_blank"><img alt="Quizz" src="https://img.shields.io/badge/-QUIZZ%20-black?style=flat&logo=appannie"><a/> 
 </p>
-<p><a href="https://wizardly-nightingale-4dbdb7.netlify.app/" target="_blank"><img alt="Pokedex" src="https://img.shields.io/badge/-Pokedex%20-black?style=flat&logo=appannie"><a/>  
-<a href="https://priceless-minsky-43a666.netlify.app/" target="_blank"><img alt="Random github" src="https://img.shields.io/badge/-Random%20Github-black?style=flat&logo=appannie"><a/>  
-<a href="https://zen-hoover-3d17e5.netlify.app/" target="_blank"><img alt="ToDoList" src="https://img.shields.io/badge/-ToDo%20List-black?style=flat&logo=appannie"><a/>
+<p><a href="https://wizardly-nightingale-4dbdb7.netlify.app/" target="_blank"><img alt="Pokedex" src="https://img.shields.io/badge/-POKEDEX%20-black?style=flat&logo=appannie"><a/>  
+<a href="https://priceless-minsky-43a666.netlify.app/" target="_blank"><img alt="Random github" src="https://img.shields.io/badge/-RANDOM%20GITHUB-black?style=flat&logo=appannie"><a/>  
+<a href="https://zen-hoover-3d17e5.netlify.app/" target="_blank"><img alt="ToDoList" src="https://img.shields.io/badge/-TODO%20LIST-black?style=flat&logo=appannie"><a/>
 </p>
 <hr/>  
 
