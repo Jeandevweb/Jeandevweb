@@ -1,11 +1,7 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1605478401/10874/cool_cowboy.png?1605478401" width="30"/> Hey! Nice to see you.</h1>
+<h1>👋 Hey! Welcome on my GitHub.</h1>
 
 
-<img align="center">![img code](https://user-images.githubusercontent.com/86407531/146807883-2808920c-103f-4654-bc8a-056ad020b5b1.jpg)</img>
-
-
-
-<p>I'm Jean, Front-End developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Paris</b>, currently living in <b>Juvignac, France</b>. </p>
+<h4>I'm Jean, Front-End developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Paris</b>, currently living in <b>Juvignac, France</b>. </h4>
 <hr/>
 <h2>Tech I use</h2>
 
