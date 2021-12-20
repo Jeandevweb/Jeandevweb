@@ -17,7 +17,7 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
-<p><img alt="VsCode" src="https://img.shields.io/badge/-VisualStudioCode-007ACC?style=flat-square&logo=html5&logoColor=white" />
+<p><img alt="VsCode" src="https://img.shields.io/badge/-VS Code-007ACC?style=flat-square&logo=html5&logoColor=white" />
   
 </p>  
 <hr/>
