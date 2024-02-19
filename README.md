@@ -23,13 +23,12 @@
 <hr/>
 
 <h1 align="center">👇 Some Work (click) 👇</h1>
-<p align="center"><a href="https://mystifying-gates-7f2b1a.netlify.app/"><img alt="Population Mondiale" src="https://img.shields.io/badge/-FETCH%20COUNTRIES-black?style=flat&logo=appannie"><a/>  
+<p align="center"><a href="https://fabulous-trifle-f74e67.netlify.app/"><img alt="Crazee Burger" src="https://img.shields.io/badge/-CRAZEE%20BURGERS-black?style=flat&logo=appannie"><a/>  
 <a href="https://clever-aryabhata-7d0a12.netlify.app/" target="_blank"><img alt="Actos Site Internet" src="https://img.shields.io/badge/-ACTOS%20-black?style=flat&logo=appannie"><a/>
-<a href="https://dreamy-shannon-409850.netlify.app/" target="_blank"><img alt="Quizz" src="https://img.shields.io/badge/-QUIZZ%20-black?style=flat&logo=appannie"><a/> 
+<a href="https://nike-app-react-portfolio.netlify.app/" target="_blank"><img alt="Nike App" src="https://img.shields.io/badge/-NIKE%20APP-black?style=flat&logo=appannie"><a/> 
 </p>
 <p align="center"><a href="https://wizardly-nightingale-4dbdb7.netlify.app/" target="_blank"><img alt="Pokedex" src="https://img.shields.io/badge/-POKEDEX%20-black?style=flat&logo=appannie"><a/>  
-<a href="https://priceless-minsky-43a666.netlify.app/" target="_blank"><img alt="Random github" src="https://img.shields.io/badge/-RANDOM%20GITHUB-black?style=flat&logo=appannie"><a/>  
-<a href="https://zen-hoover-3d17e5.netlify.app/" target="_blank"><img alt="ToDoList" src="https://img.shields.io/badge/-TODO%20LIST-black?style=flat&logo=appannie"><a/>
+<a href="https://themoviesapi.netlify.app/" target="_blank"><img alt="react movie" src="https://img.shields.io/badge/-REACT%20MOVIES-black?style=flat&logo=appannie"><a/>  
 </p>
 <hr/>  
 
