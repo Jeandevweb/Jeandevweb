@@ -15,8 +15,8 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 <p align="center"><img alt="VsCode" src="https://img.shields.io/badge/-VS Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-   <img alt="React Query" src="https://img.shields.io/badge/-ReactQuery-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-   <img alt="Chakra UI" src="https://img.shields.io/badge/-ChakraUI-F9DC3E?style=flat-square&logo=babel&logoColor=white" />
+   <img alt="React Query" src="https://img.shields.io/badge/-ReactQuery-F7B93E?style=flat-square&logo=react&logoColor=white" />
+   <img alt="Chakra UI" src="https://img.shields.io/badge/-ChakraUI-F9DC3E?style=flat-square&logo=chakra&logoColor=white" />
 </p>  
 <hr/>
 
