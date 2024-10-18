@@ -12,13 +12,13 @@
 
 <h1 align="center">👇 Some Work (click) 👇</h1>
 
+<p align="center"><a href="https://2048-game-type.netlify.app/" target="_blank"><img alt="2048game" src="https://img.shields.io/badge/-2048GAME%20-black?style=flat&logo=appannie"><a/>  
+</p>
 <p align="center"><a href="https://fabulous-trifle-f74e67.netlify.app/"><img alt="Crazee Burger" src="https://img.shields.io/badge/-CRAZEE%20BURGERS-black?style=flat&logo=appannie"><a/>  
 <a href="https://clever-aryabhata-7d0a12.netlify.app/" target="_blank"><img alt="Actos Site Internet" src="https://img.shields.io/badge/-ACTOS%20-black?style=flat&logo=appannie"><a/>
 <a href="https://nike-app-react-portfolio.netlify.app/" target="_blank"><img alt="Nike App" src="https://img.shields.io/badge/-NIKE%20APP-black?style=flat&logo=appannie"><a/> 
 </p>
-<p align="center"><a href="https://2048-game-type.netlify.app/" target="_blank"><img alt="2048game" src="https://img.shields.io/badge/-2048GAME%20-black?style=flat&logo=appannie"><a/>  
-<a href="https://themoviesapi.netlify.app/" target="_blank"><img alt="react movie" src="https://img.shields.io/badge/-REACT%20MOVIES-black?style=flat&logo=appannie"><a/>  
-</p>
+
 <hr/>  
 
 <h2 align="center">Where to find me</h2>
